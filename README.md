@@ -1,6 +1,5 @@
 K501 · eArc — README (final v2, with canonical references)
 
-:::writing{variant=“standard” id=“k501_earc_readme_final_002”}
 
 {
   "system": "K501 Information Space",
