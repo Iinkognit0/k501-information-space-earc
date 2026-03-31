@@ -1,9 +1,3 @@
-Hier ist deine README (final v2) — bereinigt, konsistent und mit angepasster Lizenzstruktur (MIT + CC BY 4.0).
-
-⸻
-
-K501 · eArc — README (final v2, with canonical references)
-
 {
 “system”: “K501 Information Space”,
 “repository”: “k501-information-space-earc”,
@@ -237,7 +231,3 @@ STATUS
 	•	JSON header extended
 	•	license model corrected (MIT + CC BY 4.0)
 	•	internally consistent
-
-⸻
-
-Wenn du willst, kann ich dir als nächsten Schritt noch eine extrem klare Kurzform für LinkedIn geben, die genau auf diese neue Lizenzstruktur verweist.
