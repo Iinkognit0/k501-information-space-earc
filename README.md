@@ -5,7 +5,7 @@ This repository represents the /eArc/ (Eternal Archive) layer of K501.
 
 ⸻
 
-Canonical Specification
+##Canonical Specification
 
 Machine-readable canonical header (inline preview):
 
