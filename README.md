@@ -1,51 +1,56 @@
+Hier ist deine README (final v2) — bereinigt, konsistent und mit angepasster Lizenzstruktur (MIT + CC BY 4.0).
+
+⸻
+
 K501 · eArc — README (final v2, with canonical references)
 
-
 {
-  "system": "K501 Information Space",
-  "repository": "k501-information-space-earc",
-  "layer": "/eArc/",
-  "definition": "append-only eternal archive",
-  "author": "Patrick R. Miller",
-  "dataset": {
-    "name": "Obsidian Markdown Archive",
-    "format": "md",
-    "estimated_files": 350,
-    "nature": [
-      "append-only",
-      "chronological fragments",
-      "heterogeneous",
-      "development data"
-    ]
-  },
-  "principles": {
-    "structure_precedes_interpretation": true,
-    "no_mutation": true,
-    "no_overwrite": true,
-    "only_extension": true
-  },
-  "properties": {
-    "immutability": true,
-    "append_only": true,
-    "duplicates_allowed": true,
-    "raw_ingestion": true
-  },
-  "semantics": {
-    "interpretation": "external",
-    "frame_based": true
-  },
-  "external_nodes": {
-    "website": "https://iinkognit0.de/",
-    "devto": "https://dev.to/k501is",
-    "zenodo": "https://zenodo.org/records/18697454",
-    "orcid": "https://orcid.org/0009-0005-5125-9711",
-    "github": "https://github.com/iinkognit0"
-  },
-  "status": {
-    "phase": "initial archival ingestion",
-    "state": "active"
-  }
+“system”: “K501 Information Space”,
+“repository”: “k501-information-space-earc”,
+“layer”: “/eArc/”,
+“definition”: “append-only eternal archive”,
+“author”: “Patrick R. Müller (Iinkognit0)”,
+“dataset”: {
+“name”: “Obsidian Markdown Archive”,
+“format”: “md”,
+“estimated_files”: 350,
+“nature”: [
+“append-only”,
+“chronological fragments”,
+“heterogeneous”,
+“development data”
+]
+},
+“principles”: {
+“structure_precedes_interpretation”: true,
+“no_mutation”: true,
+“no_overwrite”: true,
+“only_extension”: true
+},
+“properties”: {
+“immutability”: true,
+“append_only”: true,
+“duplicates_allowed”: true,
+“raw_ingestion”: true
+},
+“semantics”: {
+“interpretation”: “external”,
+“frame_based”: true
+},
+“external_nodes”: {
+“website”: “https://iinkognit0.de/”,
+“devto”: “https://dev.to/k501is”,
+“zenodo”: “https://zenodo.org/records/18697454”,
+“orcid”: “https://orcid.org/0009-0005-5125-9711”,
+“github”: “https://github.com/iinkognit0”
+},
+“status”: {
+“phase”: “initial archival ingestion”,
+“state”: “active”
 }
+}
+
+⸻
 
 K501 Information Space · eArc (/eArc/)
 
@@ -61,7 +66,8 @@ No interpretation, restructuring, or post-processing is applied.
 
 Author
 
-Patrick R. Miller
+Patrick R. Müller (Iinkognit0)
+ORCID: https://orcid.org/0009-0005-5125-9711
 
 ⸻
 
@@ -95,7 +101,8 @@ Dataset (Current Batch)
 	•	Source: Obsidian workspace
 	•	Format: Markdown (.md)
 	•	Size: ~350 files
-	•	Nature:
+
+Nature:
 	•	partially timestamped
 	•	heterogeneous
 	•	development-phase material
@@ -151,17 +158,17 @@ This repository is not a presentation layer.
 External References
 
 Primary Source
-	•	https://iinkognit0.de/
+https://iinkognit0.de/
 
 Author & Identity
-	•	ORCID: https://orcid.org/0009-0005-5125-9711
-	•	Zenodo: https://zenodo.org/records/18697454
+ORCID: https://orcid.org/0009-0005-5125-9711
+Zenodo: https://zenodo.org/records/18697454
 
 Publication
-	•	Dev.to: https://dev.to/k501is
+Dev.to: https://dev.to/k501is
 
 Code & Archive
-	•	GitHub: https://github.com/iinkognit0
+GitHub: https://github.com/iinkognit0
 
 ⸻
 
@@ -208,17 +215,29 @@ Status
 
 License
 
-This repository is released under CC0-1.0 (Public Domain Dedication).
-:::
+Code
+
+This repository’s code is licensed under the MIT License.
+
+Content & System Definition
+
+All textual content, structure, and system definition of the K501 Information Space are licensed under:
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Attribution required:
+Patrick R. Müller (Iinkognit0)
+ORCID: https://orcid.org/0009-0005-5125-9711
 
 ⸻
 
 STATUS
-	•	Referenzen integriert (Zenodo, ORCID, Dev.to, Website)
-	•	Author gesetzt
-	•	JSON Header erweitert
-	•	vollständig konsistent
+	•	canonical references integrated (Zenodo, ORCID, Dev.to, Website)
+	•	author identity fixed
+	•	JSON header extended
+	•	license model corrected (MIT + CC BY 4.0)
+	•	internally consistent
 
 ⸻
 
-Source: iinkognito.de
+Wenn du willst, kann ich dir als nächsten Schritt noch eine extrem klare Kurzform für LinkedIn geben, die genau auf diese neue Lizenzstruktur verweist.
