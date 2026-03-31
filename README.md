@@ -1,52 +1,35 @@
-{
-“system”: “K501 Information Space”,
-“repository”: “k501-information-space-earc”,
-“layer”: “/eArc/”,
-“definition”: “append-only eternal archive”,
-“author”: “Patrick R. Miller (Iinkognit0)”,
-“dataset”: {
-“name”: “Obsidian Markdown Archive”,
-“format”: “md”,
-“estimated_files”: 350,
-“nature”: [
-“append-only”,
-“chronological fragments”,
-“heterogeneous”,
-“development data”
-]
-},
-“principles”: {
-“structure_precedes_interpretation”: true,
-“no_mutation”: true,
-“no_overwrite”: true,
-“only_extension”: true
-},
-“properties”: {
-“immutability”: true,
-“append_only”: true,
-“duplicates_allowed”: true,
-“raw_ingestion”: true
-},
-“semantics”: {
-“interpretation”: “external”,
-“frame_based”: true
-},
-“external_nodes”: {
-“website”: “https://iinkognit0.de/”,
-“devto”: “https://dev.to/k501is”,
-“zenodo”: “https://zenodo.org/records/18697454”,
-“orcid”: “https://orcid.org/0009-0005-5125-9711”,
-“github”: “https://github.com/iinkognit0”
-},
-“status”: {
-“phase”: “initial archival ingestion”,
-“state”: “active”
-}
-}
+K501 Information Space · eArc (Eternal Archive)
+
+Deterministic, append-only information system.
+This repository represents the /eArc/ (Eternal Archive) layer of K501.
 
 ⸻
 
-K501 Information Space · eArc (/eArc/)
+Canonical Specification
+
+Machine-readable canonical header (inline preview):
+
+{
+  "system": "K501 Information Space",
+  "repository": "k501-information-space-earc",
+  "layer": "/eArc/",
+  "definition": "append-only eternal archive",
+  "author": "Patrick R. Miller (Iinkognit0)"
+}
+
+Full canonical specification (authoritative, JCS):
+
+/canonical/k501.canonical.json
+
+Manifest (integrity + hash binding):
+
+/canonical/manifest.json
+
+Raw access:
+
+https://raw.githubusercontent.com///main/canonical/k501.canonical.json
+
+⸻
 
 Definition
 
@@ -67,7 +50,7 @@ ORCID: https://orcid.org/0009-0005-5125-9711
 
 Core Concept
 
-K501 IS is a deterministic information system based on minimal units called frames.
+K501 IS is a deterministic information system based on minimal units called Frames.
 
 Principles:
 	•	structure precedes interpretation
@@ -92,7 +75,7 @@ It preserves the actual evolution of the system, not a cleaned or curated versio
 ⸻
 
 Dataset (Current Batch)
-	•	no Source: Obsidian workspace
+	•	Source: Obsidian workspace
 	•	Format: Markdown (.md)
 	•	Size: ~350 files
 
@@ -151,17 +134,17 @@ This repository is not a presentation layer.
 
 External References
 
-Primary Source
+Primary Source:
 https://iinkognit0.de/
 
-Author & Identity
+Author & Identity:
 ORCID: https://orcid.org/0009-0005-5125-9711
 Zenodo: https://zenodo.org/records/18697454
 
-Publication
+Publication:
 Dev.to: https://dev.to/k501is
 
-Code & Archive
+Code & Archive:
 GitHub: https://github.com/iinkognit0
 
 ⸻
@@ -211,11 +194,9 @@ License
 
 Code
 
-This repository’s code is licensed under the MIT License.
+MIT License
 
 Content & System Definition
-
-All textual content, structure, and system definition of the K501 Information Space are licensed under:
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
@@ -225,9 +206,12 @@ ORCID: https://orcid.org/0009-0005-5125-9711
 
 ⸻
 
-STATUS
-	•	canonical references integrated (Zenodo, ORCID, Dev.to, Website)
-	•	author identity fixed
-	•	JSON header extended
-	•	license model corrected (MIT + CC BY 4.0)
-	•	internally consistent
+Final Note
+
+K501 is a deterministic, append-only information system.
+This repository is its raw archival layer (/eArc/).
+
+No mutation.
+No overwrite.
+Only extension.
+:::
