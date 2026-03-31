@@ -3,7 +3,7 @@
 “repository”: “k501-information-space-earc”,
 “layer”: “/eArc/”,
 “definition”: “append-only eternal archive”,
-“author”: “Patrick R. Müller (Iinkognit0)”,
+“author”: “Patrick R. Miller (Iinkognit0)”,
 “dataset”: {
 “name”: “Obsidian Markdown Archive”,
 “format”: “md”,
@@ -60,7 +60,7 @@ No interpretation, restructuring, or post-processing is applied.
 
 Author
 
-Patrick R. Müller (Iinkognit0)
+Patrick R. Miller (Iinkognit0)
 ORCID: https://orcid.org/0009-0005-5125-9711
 
 ⸻
@@ -92,7 +92,7 @@ It preserves the actual evolution of the system, not a cleaned or curated versio
 ⸻
 
 Dataset (Current Batch)
-	•	Source: Obsidian workspace
+	•	no Source: Obsidian workspace
 	•	Format: Markdown (.md)
 	•	Size: ~350 files
 
@@ -220,7 +220,7 @@ All textual content, structure, and system definition of the K501 Information Sp
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 Attribution required:
-Patrick R. Müller (Iinkognit0)
+Patrick R. Miller (Iinkognit0)
 ORCID: https://orcid.org/0009-0005-5125-9711
 
 ⸻
