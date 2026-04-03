@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2026-03-12T21:01:20.270Z",
+  "last_modified_by_me": "2026-03-12T21:01:20.270Z",
+  "content_last_modified": "2026-03-12T21:01:20.270Z",
+  "created": "2026-03-12T21:01:14.611Z",
+  "permissions": [
+    {
+      "id": "05034041667908872997",
+      "name": "Patrick",
+      "type": "user",
+      "role": "owner",
+      "value": "iinkognit0@proton.me",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocLL03QS4tyqu7pUmtNCmGSobcpVK39nTHT943vUzDvVkanjNg=s64",
+      "email_address": "iinkognit0@proton.me",
+      "domain": "proton.me",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "Update zw",
+  "drive_id": "1LhxxKbdFK0h-cFQ4sWHVH3tP_ZAxLadbo4LXe_AHy_E",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "download_url": "https://docs.google.com/document/d/1LhxxKbdFK0h-cFQ4sWHVH3tP_ZAxLadbo4LXe_AHy_E/edit?usp=drive_web"
+}

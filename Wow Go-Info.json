@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2026-03-11T04:17:37.273Z",
+  "last_modified_by_me": "2026-03-11T04:17:37.273Z",
+  "content_last_modified": "2026-03-11T04:17:37.273Z",
+  "created": "2026-03-11T04:17:32.333Z",
+  "permissions": [
+    {
+      "id": "05034041667908872997",
+      "name": "Patrick",
+      "type": "user",
+      "role": "owner",
+      "value": "iinkognit0@proton.me",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocLL03QS4tyqu7pUmtNCmGSobcpVK39nTHT943vUzDvVkanjNg=s64",
+      "email_address": "iinkognit0@proton.me",
+      "domain": "proton.me",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "Wow Go",
+  "drive_id": "164MQ8sdaisvA9TaqpPjGGsS-58-FKp4m5e9pOrqm0uU",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "download_url": "https://docs.google.com/document/d/164MQ8sdaisvA9TaqpPjGGsS-58-FKp4m5e9pOrqm0uU/edit?usp=drive_web"
+}

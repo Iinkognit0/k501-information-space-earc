@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2026-03-14T19:51:59.579Z",
+  "last_modified_by_me": "2026-03-14T19:51:59.579Z",
+  "content_last_modified": "2026-03-14T19:51:59.579Z",
+  "created": "2026-03-14T19:51:54.853Z",
+  "permissions": [
+    {
+      "id": "05034041667908872997",
+      "name": "Patrick",
+      "type": "user",
+      "role": "owner",
+      "value": "iinkognit0@proton.me",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocLL03QS4tyqu7pUmtNCmGSobcpVK39nTHT943vUzDvVkanjNg=s64",
+      "email_address": "iinkognit0@proton.me",
+      "domain": "proton.me",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "Work",
+  "drive_id": "1axI0zWZQk93eY7ZWs4eIJ2I5g8ZeQ851O2rJBYCqLfY",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "download_url": "https://docs.google.com/document/d/1axI0zWZQk93eY7ZWs4eIJ2I5g8ZeQ851O2rJBYCqLfY/edit?usp=drive_web"
+}

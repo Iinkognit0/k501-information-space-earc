@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2026-03-11T00:56:04.805Z",
+  "last_modified_by_me": "2026-03-11T00:56:04.805Z",
+  "content_last_modified": "2026-03-11T00:56:04.805Z",
+  "created": "2026-03-11T00:56:03.498Z",
+  "permissions": [
+    {
+      "id": "05034041667908872997",
+      "name": "Patrick",
+      "type": "user",
+      "role": "owner",
+      "value": "iinkognit0@proton.me",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocLL03QS4tyqu7pUmtNCmGSobcpVK39nTHT943vUzDvVkanjNg=s64",
+      "email_address": "iinkognit0@proton.me",
+      "domain": "proton.me",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "Web-Ingest für K501 Information Space",
+  "drive_id": "1savjiKoayVCN_86AKdkb1BIJdOIULSaCKlcu8sclRrw",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "download_url": "https://docs.google.com/document/d/1savjiKoayVCN_86AKdkb1BIJdOIULSaCKlcu8sclRrw/edit?usp=drive_web"
+}
